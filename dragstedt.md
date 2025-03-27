@@ -100,7 +100,9 @@ IV\. Let labour-times necessary for the production of linen and coat, respective
 
 What we have investigated is how far change in the *relative magnitude of value* of a commodity (linen) reflects a change in its *own magnitude of value* and we have in general investigated *relative value* only in accordance with its *quantitative* side. We now turn to its *form.* If relative value is the form *wherein value manifests itself,* then the expression for the equivalence of *two* commodities (e.g., **x** of commodity A=y of commodity B, or 20 yards of linen=one coat) is the *simple form of relative value.*
 
-**I.** *First or simple form of relative value: 20 yards of linen=1 coat* (*x*of commodity A=y of commodity B*)*. 
+**I.** *First or simple form of relative value*: 
+
+*20 yards of linen=1 coat* (*x*of commodity A=y of commodity B*)*. 
 
 This form is rather difficult to analyse, because it is *simple.* The different specifications which are contained in it are veiled, undeveloped, abstract, and consequently only able to be distinguished and focused upon through the rather intense application of our power of abstraction. But at least this much becomes clear at a glance, that the *form* remains the same, whether 20 yards of linen=1 coat, or 20 yards of linen=x coats.
 
@@ -114,7 +116,11 @@ In the expression of relative value: 20 yards of linen=1 coat (or, x linen is *w
 
 Time cannot be related to the coat as value or *incarnated human labour,* without being related to *tailoring-labour as* the immediate manifestation-form of human *labour.* The aspect of the use value, coat, however, which is of interest to the linen is neither its woollen comfort, nor its buttoned-up essence nor any other useful quality which marks it out as a use-value. The coat is of service to the linen only in order to represent the linen's value-objectivity as distinguished from its starchy use-objectivity. It could have attained the same purpose if it had expressed its value in *assa foetida* or cosmetics, or shoe polish. The *tailoring labour,* too, has value for the linen, consequently, not insofar as it is purposeful productive labour, but only insofar as it exists as *determinate* labour, form *of realization, manner of objectification* of *human labour in general.* If linen expressed its value in shoe polish rather than in the coat, then polish-making would count for it as *the* immediate form of realization of abstract human labour instead of tailoring. So a use-value or commodity-body only becomes a form of appearance of value or an Equivalent by another commodity's relating itself to the concrete, useful species of labour contained in it, as the immediate form of realization of abstract human labour.
 
-We stand here at the jumping-off point of all difficulties which hinder the understanding of *value-form.* It is relatively easy to distinguish the value of the commodity from its use-value, or the labour which forms the use-value from that same labour insofar as it is merely reckoned as the expenditure of human labour power in the commodity-value. If one considers commodity or labour in the one form, then one fails to consider it in the other, and vice versa. These abstract opposites fall apart on their own, and hence are easy to keep separate. It is different with the *value-form* which exists only in the relationship of commodity to commodity. The use-value or commodity-body is here playing a new role. It is turning into the form of appearance of the commodity-value, thus of its own opposite. Similarly, the *concrete,* useful labour contained in the use-value turns into its own opposite, to the mere form of realization *of abstract* human labour. Instead of falling apart, the opposing determinations of the commodity are reflected against one another. However incomprehensible this seems at first sight, it reveals itself upon further consideration to be necessary. The commodity is right from the start a *dual* thing, use-value *and* value, product of useful labour *and* abstract coagulate of labour. In order to manifest itself as what it is, it must therefore *double* its form. It possesses right from nature the form of a use-value. That is its natural form. It only earns a value form for itself for the first time in circulation with other commodities. But its value-form has then to be itself an *objective* form. The only objective forms of commodities are their use forms, their natural forms.
+We stand here at the jumping-off point of all difficulties which hinder the understanding of *value-form.* It is relatively easy to distinguish the value of the commodity from its use-value, or the labour which forms the use-value from that same labour insofar as it is merely reckoned as the expenditure of human labour power in the commodity-value. If one considers commodity or labour in the one form, then one fails to consider it in the other, and vice versa. These abstract opposites fall apart on their own, and hence are easy to keep separate. //
+
+It is different with the *value-form* which exists only in the relationship of commodity to commodity. The use-value or commodity-body is here playing a new role. It is turning into the form of appearance of the commodity-value, thus of its own opposite. Similarly, the *concrete,* useful labour contained in the use-value turns into its own opposite, to the mere form of realization *of abstract* human labour. //
+
+Instead of falling apart, the opposing determinations of the commodity are reflected against one another. However incomprehensible this seems at first sight, it reveals itself upon further consideration to be necessary. The commodity is right from the start a *dual* thing, use-value *and* value, product of useful labour *and* abstract coagulate of labour. In order to manifest itself as what it is, it must therefore *double* its form. It possesses right from nature the form of a use-value. That is its natural form. It only earns a value form for itself for the first time in circulation with other commodities. But its value-form has then to be itself an *objective* form. The only objective forms of commodities are their use forms, their natural forms.
 
 Now since the natural form of a commodity (e.g., linen) is the exact opposite of its value-form, it has to turn *another* natural form -- the *natural form of another commodity --* into its *commodity form.* A thing that it cannot do immediately for itself it can do immediately for another commodity, and therefore by a detour for itself. It cannot express its value in its own body or in its own use-value, but it can relate itself to another use-value or commodity-body as an immediately existent value. It can relate itself not to the concrete labour contained in itself, but doubtless to that contained in another species of commodity as a mere form of realization of abstract human labour. For that, it only needs to equate the other commodity to itself as an *Equivalent.* The use-value of a commodity only exists at all for another commodity insofar as it serves in this fashion for the form of appearance of its value. If one considers only the *quantitative* relationship in the simple, relative value-expression: x commodity A=y commodity B, then one finds also only the laws developed above concerning the motion of relative value, which all rest upon the fact that the amount of value of commodities is determined by the labour-time required for their production. But if one considers the value relation of both commodities in their *qualitative* aspect, then one discovers in that simple expression of value the mystery of value form, and hence, *in nuce*  of money.  [^3]  (It is scarcely surprising that economists have overlooked the form-content of the relative value-expression (subjected as they are to the influence of material interests), if professional logicians before Hegel even overlooked the content of form in the paradigms of judgments and conclusions.)
 
@@ -234,7 +240,11 @@ Such forms as these constitute precisely the *categories* of bourgeois economy. 
 
 The private producers only enter into social contact for the first time through their private products: objects. The *social relationships* of their labours *are* and *appear* consequently not as immediately social relationships of persons in their labours, but as *objectified relationships* of persons, or *social relationships of objects.* The first and most universal manifestation of the object as a *social thing,* however, is the metamorphosis of the *product of labour* into a commodity. 
 
-The mysticism of the commodity arises, therefore, from the fact that the *social* determinations of the *private* labours of the private producers appear to them as *social natural determinations of products of labour;* from the fact, that is, that the *social relationships of production of persons* appear as *social relationships of objects* to one another and to the persons involved. The relationships of the private workers to the totality of social labour objectify themselves over against them and exist, consequently, for them in the *forms* of *objects.* To a society of commodity producers whose universally social relationship of production consists in their behaving toward their products as *commodities* (hence as *values*) and their relating their private labours to one another in this *objective* form as *equal human labour,* it is *Christianity* that is the most appropriate *form of religion,* with its cult of the abstract man -- especially in its bourgeois development, Protestantism, Deism, etc. In the ancient Asian, antique, etc. modes of production, the metamorphosis of the product into a commodity and accordingly the existence of man as commodity-producer plays a subordinate role, which, however, becomes greater the more the communities enter upon the stage of their decline. Genuine commercial people only exist in the interstices of the ancient world, like the gods of Epicurus or like the Jews in the pores of Polish society. Those ancient social organisms of production are extraordinarily much more simple and transparent than the bourgeois organism, but they are based either on the immaturity of the individual man who has not yet torn himself free of the umbilicus of the natural species-connection with other men or are based upon immediate master and slave relationships. They are conditioned by a low level of development of the productive powers of labour by correspondingly restricted relationships of men within their material process of the constitution of life, and consequently to one another and to nature. This actual restrictedness reflects itself in an idealist mode in the ancient natural and popular religions. The *religious reflection* of the real world can only disappear as soon as the relationships of practical work-a-day life represent for men daily transparently reasonable relationships to one another and to nature. But relationships can only represent themselves as what they are. The form of the social process of life (i.e., of the material process of production) will only cast off its mystic veil of fog once it stands as a product of freely socialized men under their conscious, planned control. For that to happen, however, a material basis of society is demanded or a row of material conditions of existence which are themselves again the primordial product of a long and painful history of development.
+The mysticism of the commodity arises, therefore, from the fact that the *social* determinations of the *private* labours of the private producers appear to them as *social natural determinations of products of labour;* from the fact, that is, that the *social relationships of production of persons* appear as *social relationships of objects* to one another and to the persons involved. The relationships of the private workers to the totality of social labour objectify themselves over against them and exist, consequently, for them in the *forms* of *objects.* To a society of commodity producers whose universally social relationship of production consists in their behaving toward their products as *commodities* (hence as *values*) and their relating their private labours to one another in this *objective* form as *equal human labour,* it is *Christianity* that is the most appropriate *form of religion,* with its cult of the abstract man -- especially in its bourgeois development, Protestantism, Deism, etc. //
+
+In the ancient Asian, antique, etc. modes of production, the metamorphosis of the product into a commodity and accordingly the existence of man as commodity-producer plays a subordinate role, which, however, becomes greater the more the communities enter upon the stage of their decline. Genuine commercial people only exist in the interstices of the ancient world, like the gods of Epicurus or like the Jews in the pores of Polish society. Those ancient social organisms of production are extraordinarily much more simple and transparent than the bourgeois organism, but they are based either on the immaturity of the individual man who has not yet torn himself free of the umbilicus of the natural species-connection with other men or are based upon immediate master and slave relationships. They are conditioned by a low level of development of the productive powers of labour by correspondingly restricted relationships of men within their material process of the constitution of life, and consequently to one another and to nature. This actual restrictedness reflects itself in an idealist mode in the ancient natural and popular religions. //
+
+The *religious reflection* of the real world can only disappear as soon as the relationships of practical work-a-day life represent for men daily transparently reasonable relationships to one another and to nature. But relationships can only represent themselves as what they are. The form of the social process of life (i.e., of the material process of production) will only cast off its mystic veil of fog once it stands as a product of freely socialized men under their conscious, planned control. For that to happen, however, a material basis of society is demanded or a row of material conditions of existence which are themselves again the primordial product of a long and painful history of development.
 
 Political economy has by now, to be sure, analysed value and amount of value, even if incompletely. It has never even so much as posed the question: Why does labour manifest itself in *value* and the measure of labour by its temporal duration manifest itself in *amount of value?* Forms upon whose foreheads it is written that they belong to a social formation wherein the process of production masters men but not yet does man master the process of production -- such forms count for their bourgeois consciousness as just such a self-evident natural necessity as productive labour itself. Pre-bourgeois forms of the social productive organism are accordingly treated by Political Economy roughly like pre-Christian religions are treated by the Fathers of the Church.
 
@@ -248,9 +258,49 @@ In order not to anticipate, however, let another example concerning the commodit
 
 'Riches (use-value) are the attribute of *man;* value is the *attribute of commodities.* A man or a community is rich; a pearl or a diamond is *valuable . . .* A pearl or a diamond is *valuable as a pearl or diamond .'* (S. Bailey) 
 
-Up to now, no chemist has discovered exchange-value in pearl or diamond. Our authors, who lay claim to special critical depth find, nevertheless, that use-value inheres in objects independently of their material properties, but their exchange-value on the other hand inheres in them as objects. The remarkable circumstance that the use-value of things realizes itself for men *without exchange* (thus, in the immediate relationship between thing and man), but their value on the other hand realizes itself only *in exchange* (that is, in a *social process*) is what strengthens them in their belief. Who is not reminded here of that excellent Dogberry who teaches the night-watchman Seacoal, 'To be a well-favoured man is the gift of Fortune, but to write and read comes by Nature.' (*Much Ado About Nothing,* Act III, Scene 3.)
+Up to now, no chemist has discovered exchange-value in pearl or diamond. Our authors, who lay claim to special critical depth find, nevertheless, that use-value inheres in objects independently of their material properties, but their exchange-value on the other hand inheres in them as objects. The remarkable circumstance that the use-value of things realizes itself for men *without exchange* (thus, in the immediate relationship between thing and man), but their value on the other hand realizes itself only *in exchange* (that is, in a *social process*) is what strengthens them in their belief. Who is not reminded here of that excellent Dogberry who teaches the night-watchman Seacoal, //
+
+'To be a well-favoured man is the gift of Fortune, but to write and read comes by Nature.' (*Much Ado About Nothing,* Act III, Scene 3.)
 
 The commodity is *immediate unity of use-value and exchange-value,* thus of two opposed entities. Thus it is an immediate *contradiction.* This contradiction must enter upon a development just as soon as it is no longer considered as hitherto in an analytic manner (at one time from the viewpoint of use-value and at another from the viewpoint of exchange-value) but is really related to other commodities as a totality. The *real* relating of commodities to one another, however, is their *process of exchange.*
+
+[*]: Marx note (Dragstedt does not translate notes that are repeated in the second and later editions)
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note 
+
+[*]: Marx note
+
+[*]: Marx note 
+
+[*]: Marx note 
 
 [1] The concept, which is only subjective at first, marches ahead in accordance with its own proper activity to objectify itself, without needing any external material or stuff for the purpose.' Hegel, *Logik,* p. 367, *Encyclopaedia I.*] 
 
@@ -258,8 +308,24 @@ The commodity is *immediate unity of use-value and exchange-value,* thus of two 
 
 [3] It is scarcely surprising that economists have overlooked the form-content of the relative value-expression (subjected as they are to the influence of material interests), if professional logicians before Hegel even overlooked the content of form in the paradigms of judgments and conclusions.] 
 
+[5] There is something special about such reflection-determinations. This man here is (e.g.) only King, because other men behave towards him like subjects. They believe, however, that they are subjects because he is King.
+
 [4] Hegelian term, including Identity, Difference, Contradiction. -- A.D.]
 
-[5] There is something special about such reflection-determinations. This man here is (e.g.) only King, because other men behave towards him like subjects. They believe, howeve 
-
 [6] Hack economist of Marx's day. 
+
+[*]: Marx note 
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note
+
+[*]: Marx note 
+
+[*]: Marx note
+
+[*]: Marx note 
