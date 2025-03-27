@@ -4,8 +4,8 @@
 result=${PWD##*/} 
 
 
-cp ../$result.md $result_en.md
-cp ../erst_de.md $result_de.md
+cp ../dragstedt.md dragstedt_en.md
+cp ../capital_de.md dragstedt_de.md
 
 
 python3.11 table.py $result
