@@ -31,7 +31,9 @@ def create_html_table(prefix, output_file):
     # Open the output HTML file for writing
     with open(output_file, 'w', encoding='utf-8') as html_file:
         # Write HTML header
-        html_file.write('<html>\n<head>\n')
+        html_file.write('<html>\n')
+        html_file.write('<head>\n')
+        html_file.write('<meta charset="UTF-8"/>\n')
         html_file.write('<link href=\'https://fonts.googleapis.com/css?family=Crimson Text\' rel=\'stylesheet\'>\n')
         html_file.write('<title>')
         html_file.write(prefix)
